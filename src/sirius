@@ -1,0 +1,2 @@
+javac -cp .:/home/shuvojit/Desktop/Education/Projects/sirius/lib/voce.jar SiriusGUI.java
+java -cp .:/home/shuvojit/Desktop/Education/Projects/sirius/lib/voce.jar SiriusGUI

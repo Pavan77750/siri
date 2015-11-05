@@ -1,0 +1,13 @@
+total 56
+-rwxrwxr-x 1 shuvojit shuvojit  117 Nov  2 23:26 build.sh~
+drwx------ 2 shuvojit shuvojit 4096 Nov  5 13:47 grammar
+-rw-rw-r-- 1 shuvojit shuvojit  843 Nov  5 13:51 MyThread$1.class
+-rw-rw-r-- 1 shuvojit shuvojit 4601 Nov  5 13:51 MyThread.class
+-rw-rw-r-- 1 shuvojit shuvojit 1277 Nov  2 17:54 recognitionTest.java~
+-rwxr-xr-x 1 shuvojit shuvojit  113 Nov  2 23:26 run.sh~
+-rw-rw-r-- 1 shuvojit shuvojit 2299 Nov  4 00:23 score.txt
+-rwxrwxr-x 1 shuvojit shuvojit  226 Nov  3 21:02 sirius
+-rw-rw-r-- 1 shuvojit shuvojit 1583 Nov  5 13:51 SiriusGUI$1.class
+-rw-rw-r-- 1 shuvojit shuvojit 3122 Nov  5 13:51 SiriusGUI.class
+-rw-rw-r-- 1 shuvojit shuvojit 9405 Nov  5 13:51 SiriusGUI.java
+-rw-rw-r-- 1 shuvojit shuvojit    0 Nov  5 13:51 temp.txt

@@ -1,0 +1,10 @@
+#JSGF V1.0
+grammar action;
+  public <miscellaneous> = (stop);
+
+  public <basicCmd> = <startPolite> <command> <endPolite>;
+  <command> = <action> <object>;
+  <action> = /10/ open |/2/ close |/1/ show |/1/ list | /10/ search ;
+  <object> = [the | a] ( file| calculator | browser | tiger | cat | dog | cow | tiger | window);
+  <startPolite> = (please | kindly | could you | oh mighty computer) *;
+  <endPolite> = [ please | thanks | thank you ];

@@ -1,0 +1,8 @@
+#!/bin/sh
+value=`cat classpath.txt`
+echo $value
+path="$value/lib/voce.jar"
+echo "path $path"
+cd src
+java -cp  .:$path  SiriusGUI
+cd..
